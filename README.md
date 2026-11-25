@@ -2,6 +2,13 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.8.
 
+## Firebase
+
+The Firebase web app is configured in `src/firebase.ts`. Firebase Analytics starts
+in the browser when the environment supports it; it does not run during
+server-side rendering. The web configuration is public, so protect Firebase
+resources with appropriate security rules and API key restrictions.
+
 ## Development server
 
 To start a local development server, run:
