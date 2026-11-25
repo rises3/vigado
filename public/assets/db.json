@@ -1,0 +1,14 @@
+{
+  "movies": [
+    { "id": "1", "title": "Példa film 1", "durationMinutes": 120, "genre": "Dráma" },
+    { "id": "2", "title": "Példa film 2", "durationMinutes": 95, "genre": "Vígjáték" },
+    { "id": "3", "title": "Példa film 3", "durationMinutes": 110, "genre": "Akció" },
+    { "id": "4", "title": "Példa film 4", "durationMinutes": 130, "genre": "Thriller" },
+    { "id": "5", "title": "Példa film 5", "durationMinutes": 105, "genre": "Sci-fi" },
+    { "id": "6", "title": "Példa film 6", "durationMinutes": 100, "genre": "Animáció" }
+  ],
+  "bookings": [
+    { "movieId": "1", "showtime": "2026-12-01T18:00:00", "seat": "A1" },
+    { "movieId": "2", "showtime": "2026-12-02T20:00:00", "seat": "B4" }
+  ]
+}
